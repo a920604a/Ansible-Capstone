@@ -1,7 +1,7 @@
 wordpress_db: wordpress
 wordpress_user: wordpress
-wordpress_password: 0961220102
-mysql_root_password: 0961220102admin
+wordpress_password: root
+mysql_root_password: admin
 
 mysql_databases:
   - name: "{{wordpress_db}}"
